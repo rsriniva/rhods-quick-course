@@ -1,0 +1,15 @@
+= Chapter 1: Introduction to RHODS
+
+This is the introduction to the product.
+
+== RHODS Architecture
+
+Hello world!
+
+=== Jupyter Notebooks
+
+What is a notebook?
+
+=== OpenShift Container Platform
+
+OCP
