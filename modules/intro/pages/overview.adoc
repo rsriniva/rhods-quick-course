@@ -1,4 +1,4 @@
-= Chapter 1: Introduction to RHODS
+= Architecture
 
 This is the introduction to the product.
 

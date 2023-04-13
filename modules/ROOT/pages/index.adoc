@@ -1,5 +1,5 @@
-= Welcome to the Red Hat OpenShift Data Science
-:navtitle: Welcome
+= Welcome to Red Hat OpenShift Data Science
+:navtitle: Introduction
 
 Hello World!
 
@@ -32,10 +32,3 @@ A List:
 - One
 - Two
 - Three
-
-=== Always target the latest version of this page
-
-b
-=== Target a specific version of this page
-
-c
