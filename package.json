@@ -6,6 +6,7 @@
     "watch": "^1.0.2"
   },
   "scripts": {
-    "watch": "watch 'npx antora --fetch antora-playbook.yml' ./demo-component-b/docs"
+    "watch:adoc": "watch 'npx antora --fetch antora-playbook.yml' ./modules",
+    "serve": "npx http-server build/site -c-1"
   }
 }
