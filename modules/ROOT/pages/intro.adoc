@@ -1,7 +1,7 @@
-= Welcome to Red Hat OpenShift Data Science
-:navtitle: Introduction
+= Course Objectives
+:navtitle: Course Objectives
 
-Hello World! Changeeeeed!!!!
+Intro section
 
 == Heading 2
 

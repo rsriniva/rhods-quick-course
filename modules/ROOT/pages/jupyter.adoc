@@ -1,7 +1,7 @@
-= Welcome to Red Hat OpenShift Data Science
-:navtitle: Introduction
+= Jupyter Notebooks
+:navtitle: Jupyter Notebooks
 
-Hello World! Changeeeeed!!!!
+Intro section
 
 == Heading 2
 
