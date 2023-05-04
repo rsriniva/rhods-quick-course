@@ -1,2 +1,3 @@
 * xref:overview.adoc[]
-** xref:pandas.adoc[]
+** xref:arch.adoc[]
+** xref:jupyter.adoc[]

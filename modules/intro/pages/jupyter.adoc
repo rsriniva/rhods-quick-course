@@ -1,4 +1,4 @@
-= Explore Data with Pandas
+= Jupyter Notebooks
 
 This is the introduction to the product. Small change to test github actions trigger!
 

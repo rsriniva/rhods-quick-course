@@ -1,5 +1,5 @@
-= Jupyter Notebooks
-:navtitle: Jupyter Notebooks
+= Orientation to the Classroom Environment
+:navtitle: Classroom Environment
 
 Intro section
 

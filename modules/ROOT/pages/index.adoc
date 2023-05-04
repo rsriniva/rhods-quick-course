@@ -1,5 +1,5 @@
-= Welcome to Red Hat OpenShift Data Science
-:navtitle: Introduction
+= Developing Intelligent Applications using Red Hat OpenShift Data Science 
+:navtitle: Preface
 
 Hello World! Changeeeeed!!!!
 
