@@ -1,3 +1,9 @@
 = Chapter 2: Data Analysis and Visualization
 
-This is Chapter 2
+== Objectives
+
+* Import, manipulate, analyze and visualize data at a basic level using Jupyter Notebooks
+Assessment
+* Import data into a Jupyter notebook. Import the required Python libraries to clean, filter, and transform data
+
+

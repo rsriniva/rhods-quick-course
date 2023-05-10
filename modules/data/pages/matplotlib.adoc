@@ -1,3 +1,13 @@
-= Visualizing Data with Matplotlib
+= Lab: Visualizing Data with Matplotlib
 
-Matplotlib
+== Objectives
+
+* Visualize and plot data with Matplotlib in Jupyter notebooks
+
+== Steps
+
+* Simple Line charts
+* Bar charts, Pie Charts and Heatmaps
+* Scatter Plots
+* Histograms and density charts
+* https://www.kaggle.com/learn/data-visualization 
