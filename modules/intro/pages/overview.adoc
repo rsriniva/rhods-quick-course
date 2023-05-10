@@ -1,15 +1,7 @@
-= Introduction to RHODS
+= Chapter 1: Introduction
 
-This is the introduction to the product. Small change to test github actions trigger!
+This chapter provides an overview of the RedHat OpenShift Data Science (RHODS) product and its architecture.
 
-== RHODS Architecture
+== Objectives
 
-Hello world!
-
-=== Jupyter Notebooks
-
-What is a notebook?
-
-=== OpenShift Container Platform
-
-OCP
+* Identify the main components of Red Hat OpenShift Data Science and interactively execute code using Jupyter Notebooks

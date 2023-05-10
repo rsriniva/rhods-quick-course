@@ -3,5 +3,6 @@ title: Red Hat OpenShift Data Science
 version: 1.0
 nav:
 - modules/ROOT/nav.adoc
+- modules/classroom/nav.adoc
 - modules/intro/nav.adoc
 - modules/data/nav.adoc

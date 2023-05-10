@@ -1,36 +1,34 @@
-= Developing Intelligent Applications using Red Hat OpenShift Data Science 
-:navtitle: Preface
+= Developing Intelligent Applications using Red Hat OpenShift Data Science (RHODS)
+:navtitle: Welcome
 
-Hello World! Test change on May 4 2023 Demo
+== Introduction
 
-One more change
+Welcome to the Red Hat Training quick course on building intelligent applications using Red Hat OpenShift Data Science (RHODS).
 
-== Heading 2
+Use the links in the sidebar panel to navigate this course.
 
-Blah...
+Companies collecting and storing vast amounts of information from multiple sources need an easy way to analyze this data, visualize trends and patterns, and experiment with predicting future business outcomes using machine learning and artificial intelligence algorithms. 
 
-=== Heading 3 #1
+This course addresses the customer need for an introduction to using Red Hat OpenShift Data Science (RHODS) that includes basic concepts and tools. As a result of taking this course, learners will be able to perform data analysis, create  learning models, and deploy them for consumption by applications.
 
-Some sample code:
+This course is based on Red Hat® OpenShift® Container Platform 4.12 and Red Hat® OpenShift® Data Science 1.25.
 
-```python
-pip install jupyter
-```
+== Course Objectives
 
-=== Heading 3 #2
+At a foundational level:
 
-Lorem Ipsum
+* Import, clean, filter and transform data from various sources
+* Perform data analysis using appropriate Python libraries and data science algorithms
+* Provide insights, trends and predictions from the analysis of data 
+* Create and train machine learning models
+* Expose the machine learning models for consumption from external applications
 
-Numbered List:
+== Audience
 
-1. One
-2. Two
-3. Three
+* Data scientists interested in using RHODS to perform data analysis, visualization, training data sets, and serving machine learning models for consumption by applications.
+* Developera who want to learn about integrating applications with RHODS to provide data analysis, data visualization, machine learning and predictive capabilities.
 
-== Another Heading 2
+==  Prerequisites
 
-A List:
-
-- One
-- Two
-- Three
+* Take the Introduction to Python Programming (AD141) training course or demonstrate equivalent knowledge of Python programming
+* Basics of creating and consuming HTTP REST APIs

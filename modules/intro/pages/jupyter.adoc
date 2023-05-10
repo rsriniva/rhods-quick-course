@@ -1,15 +1,13 @@
 = Jupyter Notebooks
 
-This is the introduction to the product. Small change to test github actions trigger!
+== Objective
 
-== RHODS Architecture
+* Create, import, execute and share notebooks using a Git repository
 
-Hello world!
+== Introducing Jupyter Notebooks
 
-=== Jupyter Notebooks
-
-What is a notebook?
-
-=== OpenShift Container Platform
-
-OCP
+* What is a Jupyter notebook? Why is it popular?
+* Show how to run some simple Python code
+* Creating and sharing notebooks
+* Importing notebooks from Git
+* Visualizing data in notebooks using Graphs, plots and charts (basics only, we have a detailed section on visualization in the next chapter)
