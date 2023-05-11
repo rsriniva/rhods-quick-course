@@ -12,3 +12,5 @@ We will also use other cloud services in this course including:
 == Accessing the RHODS Instance
 
 Instructions to access RHPDS/ROL/ROSA/OSD Whatever go here...
+
+A development and testing sandbox for internal associates is available at  https://red.ht/rhods-internal
