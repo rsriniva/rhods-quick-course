@@ -3,6 +3,8 @@
 
 == Introduction
 
+This is version 1.25 of the course.
+
 Welcome to the Red Hat Training quick course on building intelligent applications using Red Hat OpenShift Data Science (RHODS).
 
 Use the links in the sidebar panel to navigate this course.
