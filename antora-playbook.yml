@@ -7,3 +7,4 @@ content:
 ui:
   bundle:
     url: ./ui-bundle/ui-bundle.zip
+  supplemental_files: ./supplemental-ui
