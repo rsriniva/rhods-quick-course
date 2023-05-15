@@ -4,7 +4,7 @@ site:
 content:
   sources:
   - url: ./
-    branches: [main, 2.0]
+    branches: [main, v1.24]
 ui:
   bundle:
     url: ./ui-bundle/ui-bundle.zip
