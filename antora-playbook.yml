@@ -7,7 +7,7 @@ content:
   - url: ./
     branches:
     - 'main'
-    - 'v1.24'
+    - '1.24'
 
 asciidoc:
   attributes:
