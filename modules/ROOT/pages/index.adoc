@@ -13,7 +13,7 @@ Companies collecting and storing vast amounts of information from multiple sourc
 
 This course addresses the customer need for an introduction to using Red Hat OpenShift Data Science (RHODS) that includes basic concepts and tools. As a result of taking this course, learners will be able to perform data analysis, create  learning models, and deploy them for consumption by applications.
 
-This course is based on Red Hat® OpenShift® Container Platform 4.12 and Red Hat® OpenShift® Data Science 1.25.
+This course is based on Red Hat® OpenShift® Container Platform 4.12 and Red Hat® OpenShift® Data Science 1.24.
 
 == Course Objectives
 
