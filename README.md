@@ -15,7 +15,9 @@ To contribute, you can use locally installed tooling on your workstation, or you
 
 1. To open and edit the asciidoc files in OpenShift DevSpaces, click on the **Developer Workspace** badge below and log in using your provided OpenShift credentials:
 
-[![Contribute](https://www.eclipse.org/che/contribute.svg)](https://devspaces.apps-crc.testing/#https://github.com/rsriniva/rhods-quick-course)
+[![Contribute](https://www.eclipse.org/che/contribute.svg)](https://devspaces.apps.cluster-z56gz.z56gz.sandbox2456.opentlc.com/#https://github.com/rsriniva/rhods-quick-course)
+
+1. If you are using DevSpaces for the first time, select the **httpasswd** option and log in using the username and password provided to you for DevSpaces. When prompted, allow all permissions. You should see your workspace starting to load.
 
 2. If you launch the DevSpaces workspace for the first time, it will take a few minutes to download the container image, clone the Git repository, and set up your project. All the required tooling and IDE plugins are automatically installed and set up for you.
 
